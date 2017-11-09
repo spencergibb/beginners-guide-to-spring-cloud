@@ -1,0 +1,1 @@
+rm -rf web web.zip greeting greeting.zip name name.zip
